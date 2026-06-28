@@ -35,6 +35,9 @@ Tecnologias/Ferramentas:
 * Análise de Valores Limite
 * Google Sheets
 
+---
+
+
 - Sprint 3 – Linux, SQL e Jira
 
 Descrição:
@@ -46,6 +49,9 @@ Tecnologias/Ferramentas:
 * Linux (Bash/Cygwin)
 * Git Bash/Cygwin
 * Jira
+
+---
+
 
 - Sprint 4 – Testes de API REST
 
@@ -59,6 +65,9 @@ Tecnologias/Ferramentas:
 * HTTP
 * Jira
 
+---
+
+
 - Sprint 5 – Testes Mobile
 
 Descrição:
@@ -69,6 +78,9 @@ Tecnologias/Ferramentas:
 * Android
 * Jira
 * Google Sheets
+
+---
+
 
 - Sprint 6 – Automação de Testes Web
 
@@ -81,6 +93,9 @@ Tecnologias/Ferramentas:
 * Pytest
 * POM (Page Object Model)
 
+---
+
+
 - Sprint 7 – Automação de API
 
 Descrição:
@@ -92,6 +107,9 @@ Tecnologias/Ferramentas:
 * Requests
 * JSON
 * API REST
+
+---
+
 
 - Sprint 8 – Projeto Final de QA
 
