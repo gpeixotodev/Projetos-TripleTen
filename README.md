@@ -20,7 +20,10 @@ Tecnologias/Ferramentas:
 * Jira
 * Google Sheets
 * Test Design
+
 ---
+
+
 - Sprint 2 – Design de Testes
 
 Descrição:
